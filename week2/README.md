@@ -12,7 +12,6 @@ theoretical-report.pdf
 │   ├── theoretical-report.pdf
 │   ├── practical-report.pdf
 │   ├── alert-triage.md
-│   └── screenshots
 │       ├── wazuh-dashboard.png
 │       └── alert-analysis.png
 │
